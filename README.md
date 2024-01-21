@@ -67,9 +67,9 @@
 <h2 align="left">Connect with me</h2>
 <p align="center">
 <a href="https://twitter.com/defsan35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="defsan35" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diego-defilippi-santillán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-defilippi-santillán" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diego-defilippi-santill%C3%A1n-133592187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-defilippi-santillán" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ddefsan35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ddefsan35" height="30" width="40" /></a>
-<a href="https://www.github.com/DDefSan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ddefsan35" height="30" width="40" /></a>
+<a href="https://www.github.com/DiegoDefSan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ddefsan35" height="30" width="40" /></a>
 </p>
 
 <h2>Github stats</h2>
